@@ -5,6 +5,7 @@
  *      Author: imtiyazhirani
  */
 #include <stdio.h>
+
 int main(){
 	int n=5;
 	n++; //n = n+1
