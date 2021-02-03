@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../input_output.c 
+../operators_precedence.c 
 
 OBJS += \
-./input_output.o 
+./operators_precedence.o 
 
 C_DEPS += \
-./input_output.d 
+./operators_precedence.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
