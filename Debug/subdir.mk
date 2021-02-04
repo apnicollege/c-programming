@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../switch_case.c 
+../for-loop.c 
 
 OBJS += \
-./switch_case.o 
+./for-loop.o 
 
 C_DEPS += \
-./switch_case.d 
+./for-loop.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
