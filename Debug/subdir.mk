@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../for-loop.c 
+../while-loop.c 
 
 OBJS += \
-./for-loop.o 
+./while-loop.o 
 
 C_DEPS += \
-./for-loop.d 
+./while-loop.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
