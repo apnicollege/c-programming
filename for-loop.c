@@ -20,5 +20,12 @@ int main(){
 	for(int k=5 ; k>0 ; k--){	//k=5  , 4, 3, 2, 1
 		printf("reversal\n");
 	}
+
+	for( ;; ){ //makes no sense but syntax is correct so no error
+
+	}
+	for( int x = 0 ; x>=0; x++){ // 0  1 2 3 4 5 ........ --infinite loop
+
+	}
  	return 0;
 }
