@@ -42,7 +42,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="nested-for-star-pattern.c|while-loop.c|for-loop.c|switch_case.c|if-else.c|operators_precedence.c|input_output.c|variables_constants.c|program_structure.c|module1-getting-started" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="nested-for-number-pyramid.c|nested-for-star-pattern.c|while-loop.c|for-loop.c|switch_case.c|if-else.c|operators_precedence.c|input_output.c|variables_constants.c|program_structure.c|module1-getting-started" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
