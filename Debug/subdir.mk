@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../nested-for-floyd-triangle.c 
+../nested-for-reverse-star.c 
 
 OBJS += \
-./nested-for-floyd-triangle.o 
+./nested-for-reverse-star.o 
 
 C_DEPS += \
-./nested-for-floyd-triangle.d 
+./nested-for-reverse-star.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
