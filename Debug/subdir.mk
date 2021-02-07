@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../nested-for-reverse-star.c 
+../nested-for-full-star.c 
 
 OBJS += \
-./nested-for-reverse-star.o 
+./nested-for-full-star.o 
 
 C_DEPS += \
-./nested-for-reverse-star.d 
+./nested-for-full-star.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
