@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../nested-for-full-pyramid-numbers.c 
+../user-defined-functions.c 
 
 OBJS += \
-./nested-for-full-pyramid-numbers.o 
+./user-defined-functions.o 
 
 C_DEPS += \
-./nested-for-full-pyramid-numbers.d 
+./user-defined-functions.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
