@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../user-defined-functions.c 
+../function-impl-types.c 
 
 OBJS += \
-./user-defined-functions.o 
+./function-impl-types.o 
 
 C_DEPS += \
-./user-defined-functions.d 
+./function-impl-types.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
